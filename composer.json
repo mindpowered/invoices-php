@@ -1,6 +1,6 @@
 {
     "name": "mindpowered/invoices",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Logic for creating and editing invoices",
     "license": "CPAL-1.0",
     "autoload": {
