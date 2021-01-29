@@ -1,7 +1,7 @@
 {
     "name": "mindpowered/invoices",
-    "version": "0.0.3",
-    "description": "Logic for creating and editing invoices",
+    "version": "0.0.4",
+    "description": "Create, edit, and track invoices as part of your app",
     "license": "CPAL-1.0",
     "autoload": {
         "psr-4": {
